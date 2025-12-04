@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/brettmbates/argocd-example-apps",
-  "drySha": "24e3c0f403a4349eb7161b3f286a8816875cbfb7",
+  "drySha": "9b580c704a66fad9c96af0268bdf3058cd6d8f91",
   "author": "brett.bates.ctr <brett.bates@radiancetech.com>",
-  "date": "2025-12-02T01:28:33Z",
-  "subject": "Initial addition"
+  "date": "2025-12-04T13:40:34Z",
+  "subject": "Updated replicacount from 2 to 1"
 }
